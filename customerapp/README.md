@@ -5,6 +5,6 @@
 3. To restart the server after making a change automatically, install nodemon with command **npm install nodemon -g**
 4. Download EJS(Embedded Javascript templates) with command **npm install ejs —save**
 5. Use express-validator to validate the input: **npm install express-validator —save**
-6. Download MongoDB with instructions on:[Installing MongoDB on a Mac] (https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
+6. Download MongoDB with instructions on:[Installing MongoDB on a Mac](https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
 7. Download mongojs as the ODM(Object Data Manager)
 
